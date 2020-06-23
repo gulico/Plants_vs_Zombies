@@ -1,0 +1,4 @@
+E:\code\new test VS\Curriculumdesign\Debug\Curriculumdesign.exe
+E:\code\new test VS\Curriculumdesign\Debug\Curriculumdesign.pdb
+E:\code\new test VS\Curriculumdesign - 副本\Debug\Curriculumdesign.exe
+E:\code\new test VS\Curriculumdesign - 副本\Debug\Curriculumdesign.pdb

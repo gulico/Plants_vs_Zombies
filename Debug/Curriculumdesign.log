@@ -1,0 +1,31 @@
+﻿  Curriculumdesign.cpp
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1137,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1138,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1183,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1263,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1272,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1277,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1287,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1292,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1298,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1304,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1309,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1314,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1322,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1577,87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1577,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1807,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1826,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1826,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1831,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1831,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1847,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1847,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1852,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1852,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1857,53): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(1857,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(2096,136): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(2096,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\code\new test VS\Curriculumdesign - 副本\Curriculumdesign.cpp(2110,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Curriculumdesign.vcxproj -> E:\code\new test VS\Curriculumdesign - 副本\Debug\Curriculumdesign.exe
