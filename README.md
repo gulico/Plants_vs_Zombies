@@ -1,6 +1,6 @@
 # Plants_vs_Zombies 植物大战僵尸
 
-branch2020版本修订者：[uniopeter123](https://github.com/gulico/Plants_vs_Zombies/commits?author=uniopeter123)
+branch2020版本修订者：[uniopeter123](https://github.com/uniopeter123)
 
 开发工具：Visual Studio 2019
 
