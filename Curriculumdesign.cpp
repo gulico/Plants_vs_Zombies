@@ -338,7 +338,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 							mciSendString("stop .\\image\\music\\evillaugh.wav", NULL, 0, NULL);
 						}
 						else if (GetTickCount() - t3 <= 100000) {//前100秒每20秒出一个僵尸
-							if (t3now - t3pre >= 5000) {
+							if (t3now - t3pre >= 20000) {
 								if (GetTickCount() <= 20050) {
 									mciSendString("play .\\image\\music\\awooga.wav", NULL, 0, NULL);
 								}
@@ -1655,7 +1655,7 @@ void MyPaint(HDC hdc) {
 						SelectObject(bufdc, hSunshroom[Pla[j][i].num]);
 						GetObject(hSunshroom[Pla[j][i].num], sizeof(BITMAP), &start);
 						MyTransparentBlt2(mdc, 55 + i * 80, 108 + j * 100, start.bmWidth, start.bmHeight, bufdc, 0, 0, start.bmWidth, start.bmHeight, RGB(255, 255, 255));
-						if (GetTickCount() - Pla[j][i].tshoot > 2000) {//24秒产出一个阳光
+						if (GetTickCount() - Pla[j][i].tshoot > 24000) {//24秒产出一个阳光
 							Sun tempsun;
 							tempsun.num = 0;
 							tempsun.stime = -1;//没有落地
