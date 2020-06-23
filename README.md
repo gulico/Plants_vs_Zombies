@@ -8,8 +8,8 @@ branch2020版本修订者：[uniopeter123](https://github.com/gulico/Plants_vs_Z
 
 - 选择植物界面
 
-  ![](https://github.com/gulico/Plants_vs_Zombies/fig/1.png)
+  ![](https://github.com/gulico/Plants_vs_Zombies/blob/branch2020/fig/1.png)
 
 - 游戏界面
 
-  ![](https://github.com/gulico/Plants_vs_Zombies/fig/2.png)
+  ![](https://github.com/gulico/Plants_vs_Zombies/blob/branch2020/fig/2.png)
