@@ -13,5 +13,5 @@
 
 ## 效果展示
 
-![](https://github.com/gulico/Plants_vs_Zombies/tree/master/fig/1.png)
+![](https://github.com/gulico/Plants_vs_Zombies/blob/master/fig/1.png)
 
